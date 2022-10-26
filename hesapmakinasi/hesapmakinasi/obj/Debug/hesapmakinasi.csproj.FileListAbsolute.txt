@@ -1,0 +1,11 @@
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\bin\Debug\hesapmakinasi.exe.config
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\bin\Debug\hesapmakinasi.exe
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\bin\Debug\hesapmakinasi.pdb
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.csproj.AssemblyReference.cache
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.Form1.resources
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.Properties.Resources.resources
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.exe
+C:\Users\emir_\source\repos\hesapmakinasi\hesapmakinasi\obj\Debug\hesapmakinasi.pdb
